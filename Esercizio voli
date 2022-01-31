@@ -1,0 +1,86 @@
+-- *** SqlDbx Personal Edition ***
+-- !!! Not licensed for commercial use beyound 90 days evaluation period !!!
+-- For version limitations please check http://www.sqldbx.com/personal_edition.htm
+-- Number of queries executed: 0, number of rows retrieved: 0
+
+
+-- 1) Le città con un aereoporto di cui non è noto il numero di piste;
+
+SELECT CITTA 
+FROM AEREOPORTO 
+WHERE NUMPISTE IS NULL
+
+-- 2) Le nazioni da cui parte e arriva il volo con codice AZ274;
+
+SELECT NAZIONE 
+FROM AEREOPORTO 
+JOIN VOLO 
+ON AEREOPORTO.CITTA = VOLO.CITTAPART OR AEREOPORTO.CITTA = VOLO.CITTAARR 
+WHERE TIPOAEREO='AZ274'
+
+-- 3) I tipi di aereo nei voli che partono da Torino;
+
+SELECT TIPOAEREO 
+FROM VOLO 
+WHERE CITTAPART='Torino'
+
+-- 4) I tipi di aereo e il corrispondente numero di passeggeri per i tipi di aereo usati nei voli che partono da Torino. Se la descrizione dell’aereo non è disponibile, visualizzare solamente il tipo;
+
+SELECT * FROM VOLO 
+LEFT JOIN AEREO 
+ON VOLO.TIPOAEREO= AEREO.TIPOAEREO 
+WHERE CITTAPART='Torino' --????
+
+-- 5) Le città da cui partono voli internazionali;
+
+SELECT DISTINCT X.CITTA FROM 
+(SELECT * FROM  VOLO
+JOIN AEREOPORTO ON VOLO.CITTAPART= AEREOPORTO.citta) x
+JOIN AEREOPORTO ON X.CITTAARR= AEREOPORTO.citta
+WHERE X.NAZIONE != AEREOPORTO.NAZIONE
+
+-- 6) Le città da cui partono voli diretti a Bologna, ordinate alfabeticamente;
+
+SELECT CITTAPART AS Città_Partenza FROM VOLO
+WHERE CITTAARR='Bologna'
+ORDER BY CITTAPART ASC
+
+-- 7) Il numero di voli internazionali che partono il giovedì da Napoli
+SELECT COUNT(X.IDVOLO) FROM 
+(SELECT * FROM volo
+JOIN AEREOPORTO
+ON AEREOPORTO.CITTA = VOLO.CITTAPART) X
+JOIN AEREOPORTO
+ON AEREOPORTO.CITTA = X.CITTAARR
+WHERE X.NAZIONE != AEREOPORTO.NAZIONE
+AND X.CITTAPART ='Napoli'
+AND X.GIORNOSETT ='Giovedì'
+
+-- 8) Per ogni città italiana, il numero di voli internazionali che partono da
+-- città italiane. Nel risultato devono comparire anche città italiane che non
+-- hanno voli internazionali.
+
+SELECT * FROM
+(SELECT X.CITTAPART, COUNT(CITTAPART) AS NUMERO_VOLI_INT FROM
+(SELECT * FROM volo
+JOIN AEREOPORTO
+ON AEREOPORTO.CITTA = VOLO.CITTAPART) X
+JOIN AEREOPORTO
+ON AEREOPORTO.CITTA = X.CITTAARR
+WHERE X.NAZIONE ='IT' 
+AND X.NAZIONE != AEREOPORTO.NAZIONE
+GROUP BY X.CITTAPART) A 
+FULL JOIN B
+
+(SELECT X.CITTAPART, COUNT(CITTAPART) NUMERO_VOLI_NAZ FROM
+(SELECT * FROM volo
+JOIN AEREOPORTO
+ON AEREOPORTO.CITTA = VOLO.CITTAPART) X
+JOIN AEREOPORTO
+ON AEREOPORTO.CITTA = X.CITTAARR
+WHERE X.NAZIONE ='IT' 
+AND X.NAZIONE = AEREOPORTO.NAZIONE
+GROUP BY X.CITTAPART) B
+
+
+
