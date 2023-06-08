@@ -1,0 +1,84 @@
+"SECURE_FLG";"SECURITY_GROUP";"COMMENTS"
+Orange;Q-GQL-Global Methods;Compendia_Documents, Non-Compendia Methods Documents, Specifications
+Orange;IDS-Research IDS-Secure;CENTRAL02, IT_Library, GBIP01, GBIP02
+Yellow-Secure;Mfg-IDAP-Secure;DRY_Quality
+Orange;IDS-GIS-EIP-EDE;CENTRAL02, IT_Library, GBIP01, GBIP02
+Red;Mfg-Fegersheim-New Products Projects;FEG_Validation
+Orange;Q-Marketing Affiliate Operations;CENTRAL23_Method_Compendia, CENTRAL23_Method_NonCompendia, CENTRAL23_Specification
+Orange;IDS-IS-IDAM;CENTRAL02, IT_Library, GBIP01, GBIP02
+Orange;IDS-SERF;CENTRAL02, IT_Library, GBIP01, GBIP02
+Red;LRL-PR&D-TKT;PR&D
+Red;IDS-IS-CF;CENTRAL02, IT_Library, GBIP01, GBIP02
+Orange;IDS-BU-GCC;CENTRAL02, IT_Library, GBIP01, GBIP02
+Orange;IDS-GIS-HCS;CENTRAL02, IT_Library, GBIP01, GBIP02
+Orange;Mfg-IPM-TSMS;PAR_General
+Orange;Mfg-Fegersheim-Quality;FEG_Quality
+Red;IDS-IS-DF;CENTRAL02, IT_Library, GBIP01, GBIP02
+Yellow-Secured;MFG-APIEM-Secure;CentralEXT_AB
+Orange;IDS-AADS-EDB;CENTRAL02, IT_Library, GBIP01, GBIP02
+Yellow-Secured;Mfg-Alcobendas-Engineering;Alcobendas
+Red;MFG-CE-Product Protection China;CENTRAL04, CENTRAL06, CENTRAL12, CENTRAL15, CENTRAL25
+Red;LRL-PR&D;PR&D
+Orange;IDS-BU-LUSA;CENTRAL02, IT_Library, GBIP01, GBIP02
+Orange;IDS-IS-ISADV;CENTRAL02, IT_Library, GBIP01, GBIP02
+Orange;IDS-IS-ISIRM;CENTRAL02, IT_Library, GBIP01, GBIP02
+Yellow-Secured;LRL-PK/PD;Central01
+Orange;IDS-ISQ;CENTRAL02, IT_Library, GBIP01, GBIP02
+Yellow-Secure;LRL-PR&D;PR&D
+Red;IDS-IS-PAM;CENTRAL02, IT_Library, GBIP01, GBIP02
+Orange;IDS-AADS-EDP-CONSUMER;CENTRAL02, IT_Library, GBIP01, GBIP02
+Orange;IDS-IS-IAM;CENTRAL02, IT_Library, GBIP01, GBIP02
+Orange;IDS-GIS-EDAT;CENTRAL02, IT_Library, GBIP01, GBIP02
+Yellow-Secured;Mfg-GMQLD;Central10, Central10_Training
+Orange;IDS-IS_IS-Eng;CENTRAL02, IT_Library, GBIP01, GBIP02
+Orange;IDS-BU-GSS;CENTRAL02, IT_Library, GBIP01, GBIP02
+Red;MFG-CE-Product Protection;CENTRAL04, CENTRAL06, CENTRAL12, CENTRAL15, CENTRAL25
+Red;IDS-DH-Secure-Reports;CENTRAL02, IT_Library, GBIP01, GBIP02
+Orange;IDS-GIS-WPS;CENTRAL02, IT_Library, GBIP01, GBIP02
+Orange;Mfg-IPM-CSV Labs;Par_CSV_Labs
+Yellow-Secured;LRL-PK/PD-Validation;Central01
+Yellow-Secured;Mfg-Fegersheim-Controlled Forms;FEG_Procedures
+Orange;Mfg-IPM-Master Formula;PAR_Master_Formula
+Orange;IDS-GS-Info Sec;CENTRAL02, IT_Library, GBIP01, GBIP02
+Orange;IDS-GIS-WCS;CENTRAL02, IT_Library, GBIP01, GBIP02
+Yellow-Secure;Mfg-IDAP-Training;Central07_Training
+Yellow-Secured;MFG-EMSA-Secure;Central13
+Red;Mfg-Fegersheim-New Products Projects;FEG_Training
+Orange;LRL-Discovery Research;Central01
+Orange;IDS-Med Dev IDS-Secure;CENTRAL02, IT_Library, GBIP01, GBIP02
+Orange;IDS-DH-Secure;CENTRAL02, IT_Library, GBIP01, GBIP02
+Yellow-Secured;LRL-Discovery Research;Central01
+Red;Mfg-Fegersheim-TSMS;FEG_TSMS
+Orange;IDS-GIS-EIP-ANLT;CENTRAL02, IT_Library, GBIP01, GBIP02
+Orange;IDS-Med Dev IDS-BLAST;CENTRAL02, IT_Library, GBIP01, GBIP02
+Yellow-Secured;Mfg-Fegersheim-Training;FEG_Training
+Red;IDS-Research IDS-High Secure;CENTRAL02, IT_Library, GBIP01, GBIP02
+Red;LRL-PR&D-Unblinding;PR&D
+Orange;IDS-GS-Secure;CENTRAL02, IT_Library, GBIP01, GBIP02
+Orange;Mfg-IPM-Quality;PAR_General
+Orange;Mfg-IDAP-Secure;DRY_Technical_Documents
+Orange;IDS-GIS-EIP-DM;CENTRAL02, IT_Library, GBIP01, GBIP02
+Orange;Mfg-IDAP-MBR;DRY_MBR
+Yellow-Secure;Mfg-IDAP-Training Secure;DRY_Training
+Orange;IDS-Med Dev IDS-High Secure;CENTRAL02, IT_Library, GBIP01, GBIP02
+Orange;IDS-GIS-EIP-AWS;CENTRAL02, IT_Library, GBIP01, GBIP02
+Yellow-Secure;Mfg-IPM-L&D;PAR_Training
+Orange;Mfg-IDAP-MBR;IDM_DAPO
+Orange;IDS-IS-CF;CENTRAL02, IT_Library, GBIP01, GBIP02
+Orange;Q-Marketing Affiliate Operations;CENTRAL22_Method_Compendia, CENTRAL22_Method_NonCompendia, CENTRAL22_Specification
+Orange;Mfg-Fegersheim-TSMS;FEG_TSMS
+Orange;IDS-AADS;CENTRAL02, IT_Library, GBIP01, GBIP02
+Red;Mfg-IPM-MST;PAR_MST
+Orange;INT-Japan-IDS;CENTRAL Japan IT
+Yellow-Secured;Mfg-IPM-IDS;PAR_CSV_IT
+Orange;IDS-GIS-EIP-CONTMGT;CENTRAL02, IT_Library, GBIP01, GBIP02
+Orange;IDS-ISQ-ADMIN;CENTRAL02, IT_Library, GBIP01, GBIP02
+Orange;Mfg-Fegersheim-CSV;FEG_CSV
+Yellow-Secure;Mfg-IDAP-Training Secure;PAR_Training
+Orange;IDS-BU-IBU;CENTRAL02, IT_Library, GBIP01, GBIP02
+Orange;IDS-GIS-GNS;CENTRAL02, IT_Library, GBIP01, GBIP02
+Orange;LRL-PR&D;PR&D
+Orange;Mfg-Alcobendas-Technical Services;Alcobendas
+Red;Mfg-Fegersheim-Quality Management;FEG_Quality
+Orange;IDS-GIS-EIP-INT;CENTRAL02, IT_Library, GBIP01, GBIP02
+Red;IDS-IS-AD;CENTRAL02, IT_Library, GBIP01, GBIP02
