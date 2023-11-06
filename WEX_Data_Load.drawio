@@ -1,0 +1,85 @@
+<mxfile host="app.diagrams.net" modified="2023-11-06T14:44:11.455Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="aCD_VJKYJXJ7Ev_hcrfp" version="22.0.8" type="github">
+  <diagram name="Page-1" id="oT0st0Xpu5hzxOi06rR8">
+    <mxGraphModel dx="786" dy="467" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3FQEF5a19I9ugX-o9w3f-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3FQEF5a19I9ugX-o9w3f-1" target="3FQEF5a19I9ugX-o9w3f-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3FQEF5a19I9ugX-o9w3f-1" value="Start" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="20" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3FQEF5a19I9ugX-o9w3f-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3FQEF5a19I9ugX-o9w3f-2" target="3FQEF5a19I9ugX-o9w3f-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3FQEF5a19I9ugX-o9w3f-2" value="Query is saved in a file" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="138" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3FQEF5a19I9ugX-o9w3f-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3FQEF5a19I9ugX-o9w3f-3" target="3FQEF5a19I9ugX-o9w3f-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3FQEF5a19I9ugX-o9w3f-3" value="File is read" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="234" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3FQEF5a19I9ugX-o9w3f-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3FQEF5a19I9ugX-o9w3f-4" target="3FQEF5a19I9ugX-o9w3f-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3FQEF5a19I9ugX-o9w3f-4" value="Result is saved in a dataframe" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="420" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3FQEF5a19I9ugX-o9w3f-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3FQEF5a19I9ugX-o9w3f-18" target="3FQEF5a19I9ugX-o9w3f-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3FQEF5a19I9ugX-o9w3f-5" value="Dataframe is divided into smaller portions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="511" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3FQEF5a19I9ugX-o9w3f-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3FQEF5a19I9ugX-o9w3f-6" target="3FQEF5a19I9ugX-o9w3f-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3FQEF5a19I9ugX-o9w3f-6" value="Query is executed on Redshift" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="329" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3FQEF5a19I9ugX-o9w3f-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3FQEF5a19I9ugX-o9w3f-14" target="3FQEF5a19I9ugX-o9w3f-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3FQEF5a19I9ugX-o9w3f-14" value="XML file is created" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="659" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3FQEF5a19I9ugX-o9w3f-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3FQEF5a19I9ugX-o9w3f-15" target="3FQEF5a19I9ugX-o9w3f-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3FQEF5a19I9ugX-o9w3f-15" value="XML files is passed with a post call to the API runner&amp;nbsp;&amp;nbsp;&lt;a href=&quot;https://ix1eipwexdev.am.lilly.com/vivisimo/cgi-bin/velocity.exe?v.app=api-run&amp;amp;v.function=search-collection-enqueue&quot;&gt;API Runner (lilly.com)&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="755" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3FQEF5a19I9ugX-o9w3f-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3FQEF5a19I9ugX-o9w3f-16" target="3FQEF5a19I9ugX-o9w3f-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3FQEF5a19I9ugX-o9w3f-16" value="All documents in the dataframe portion are indexed" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="844" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3FQEF5a19I9ugX-o9w3f-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3FQEF5a19I9ugX-o9w3f-5" target="3FQEF5a19I9ugX-o9w3f-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="572" as="sourcePoint" />
+            <mxPoint x="210" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3FQEF5a19I9ugX-o9w3f-18" value="FOR EACH PORTION" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="600" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3FQEF5a19I9ugX-o9w3f-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3FQEF5a19I9ugX-o9w3f-23" target="3FQEF5a19I9ugX-o9w3f-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3FQEF5a19I9ugX-o9w3f-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3FQEF5a19I9ugX-o9w3f-23" target="3FQEF5a19I9ugX-o9w3f-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3FQEF5a19I9ugX-o9w3f-23" value="&lt;b&gt;Repeat the process until the dataframe is exhausted&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="926" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3FQEF5a19I9ugX-o9w3f-26" value="End" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1002" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
