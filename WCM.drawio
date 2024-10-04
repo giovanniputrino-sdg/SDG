@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-ZoH8AaSv6jImLgKxDBK-61" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="392" width="289" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="-ZoH8AaSv6jImLgKxDBK-58" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="840" width="445" height="240" as="geometry" />
         </mxCell>
@@ -14,7 +17,7 @@
           <mxGeometry x="190" y="615" width="610" height="210" as="geometry" />
         </mxCell>
         <mxCell id="-ZoH8AaSv6jImLgKxDBK-23" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="180" width="290" height="162" as="geometry" />
+          <mxGeometry x="94" y="180" width="352.5" height="160" as="geometry" />
         </mxCell>
         <mxCell id="-ZoH8AaSv6jImLgKxDBK-1" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Enterprise_Applications.svg;" vertex="1" parent="1">
           <mxGeometry x="60" y="46" width="34" height="34" as="geometry" />
@@ -22,50 +25,50 @@
         <mxCell id="-ZoH8AaSv6jImLgKxDBK-2" value="Create a Service Principal" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-ZoH8AaSv6jImLgKxDBK-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="-ZoH8AaSv6jImLgKxDBK-2">
+        <mxCell id="-ZoH8AaSv6jImLgKxDBK-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="270" as="sourcePoint" />
-            <mxPoint x="250" y="95" as="targetPoint" />
+            <mxPoint x="200" y="94.33" as="sourcePoint" />
+            <mxPoint x="270" y="94.33" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-ZoH8AaSv6jImLgKxDBK-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="180" y="130" as="sourcePoint" />
-            <mxPoint x="250" y="130" as="targetPoint" />
+            <mxPoint x="200" y="129.33" as="sourcePoint" />
+            <mxPoint x="270" y="129.33" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-ZoH8AaSv6jImLgKxDBK-7" value="&lt;b&gt;APPLICATION ID&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="250" y="80" width="130" height="30" as="geometry" />
+          <mxGeometry x="288" y="80" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-ZoH8AaSv6jImLgKxDBK-8" value="&lt;b&gt;SECRET&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="241" y="115" width="130" height="30" as="geometry" />
+          <mxGeometry x="279" y="115" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-ZoH8AaSv6jImLgKxDBK-19" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.source_code;" vertex="1" parent="1">
-          <mxGeometry x="50" y="200" width="27" height="36.95" as="geometry" />
+          <mxGeometry x="52.25" y="180" width="27" height="36.95" as="geometry" />
         </mxCell>
         <mxCell id="-ZoH8AaSv6jImLgKxDBK-21" value="form_data = {&lt;br&gt;                &#39;grant_type&#39;: &#39;client_credentials&#39;,&lt;br&gt;                &#39;scope&#39;: &lt;font color=&quot;#cc6600&quot;&gt;scope&lt;/font&gt;+&quot;/.default&quot;,&lt;br&gt;                &#39;client_id&#39;: &lt;font color=&quot;#ff0505&quot;&gt;client_id&lt;/font&gt;,&lt;br&gt;                &#39;client_secret&#39;: &lt;font color=&quot;#0623f9&quot;&gt;client_secret&lt;/font&gt;&lt;br&gt;            }&lt;br&gt;            response = requests.post(self.config.azure_api_url,&lt;br&gt;                data = form_data,&lt;br&gt;                timeout = 30 # seconds&lt;br&gt;            )" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="180" width="280" height="170" as="geometry" />
+          <mxGeometry x="117.5" y="180" width="280" height="170" as="geometry" />
         </mxCell>
         <mxCell id="-ZoH8AaSv6jImLgKxDBK-24" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendArrow;dy=15;dx=38;notch=0;arrowHead=55;rounded=1;rotation=-180;" vertex="1" parent="1">
-          <mxGeometry x="410" y="170" width="100" height="100" as="geometry" />
+          <mxGeometry x="500" y="180" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="-ZoH8AaSv6jImLgKxDBK-25" value="Make an API call" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="525" y="85" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-ZoH8AaSv6jImLgKxDBK-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-ZoH8AaSv6jImLgKxDBK-7">
+        <mxCell id="-ZoH8AaSv6jImLgKxDBK-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="360" y="150" as="sourcePoint" />
-            <mxPoint x="420" y="110" as="targetPoint" />
+            <mxPoint x="440" y="109.33" as="sourcePoint" />
+            <mxPoint x="510" y="109.33" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-ZoH8AaSv6jImLgKxDBK-28" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="234.5" y="350" as="sourcePoint" />
-            <mxPoint x="235" y="390" as="targetPoint" />
+            <mxPoint x="261.83" y="350" as="sourcePoint" />
+            <mxPoint x="262.33" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-ZoH8AaSv6jImLgKxDBK-30" value="&lt;b&gt;&lt;font color=&quot;#ff8000&quot;&gt;SERVICE PRINCIPAL ACCESS TOKEN&amp;nbsp;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="112.5" y="390" width="245" height="30" as="geometry" />
+          <mxGeometry x="117.5" y="407" width="245" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-ZoH8AaSv6jImLgKxDBK-32" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://swimburger.net/media/ppnn3pcl/azure.png;" vertex="1" parent="1">
           <mxGeometry x="690" y="10" width="60" height="60" as="geometry" />
@@ -107,7 +110,7 @@
           <mxGeometry x="460" y="511" width="360" height="120" as="geometry" />
         </mxCell>
         <mxCell id="-ZoH8AaSv6jImLgKxDBK-50" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.pngplay.com/wp-content/uploads/3/Amazon-Web-Services-AWS-Logo-Transparent-PNG.png;" vertex="1" parent="1">
-          <mxGeometry x="645" y="380" width="120" height="72" as="geometry" />
+          <mxGeometry x="660" y="407" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-ZoH8AaSv6jImLgKxDBK-51" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Get AWS Credentials using &lt;font color=&quot;#fd087e&quot;&gt;sts.assume_role_with_web_identity&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="30" y="920" width="227" height="80" as="geometry" />
