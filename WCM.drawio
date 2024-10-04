@@ -4,11 +4,38 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-ZoH8AaSv6jImLgKxDBK-23" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="180" width="290" height="162" as="geometry" />
+        </mxCell>
         <mxCell id="-ZoH8AaSv6jImLgKxDBK-1" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Enterprise_Applications.svg;" vertex="1" parent="1">
           <mxGeometry x="60" y="46" width="34" height="34" as="geometry" />
         </mxCell>
         <mxCell id="-ZoH8AaSv6jImLgKxDBK-2" value="Create a Service Principal" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-ZoH8AaSv6jImLgKxDBK-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="-ZoH8AaSv6jImLgKxDBK-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="270" as="sourcePoint" />
+            <mxPoint x="250" y="95" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ZoH8AaSv6jImLgKxDBK-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="130" as="sourcePoint" />
+            <mxPoint x="250" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ZoH8AaSv6jImLgKxDBK-7" value="&lt;b&gt;APPLICATION ID&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="80" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-ZoH8AaSv6jImLgKxDBK-8" value="&lt;b&gt;SECRET&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="241" y="115" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-ZoH8AaSv6jImLgKxDBK-19" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.source_code;" vertex="1" parent="1">
+          <mxGeometry x="50" y="200" width="27" height="36.95" as="geometry" />
+        </mxCell>
+        <mxCell id="-ZoH8AaSv6jImLgKxDBK-21" value="form_data = {&lt;br&gt;                &#39;grant_type&#39;: &#39;client_credentials&#39;,&lt;br&gt;                &#39;scope&#39;: &lt;font color=&quot;#cc6600&quot;&gt;scope&lt;/font&gt;+&quot;/.default&quot;,&lt;br&gt;                &#39;client_id&#39;: &lt;font color=&quot;#ff0505&quot;&gt;client_id&lt;/font&gt;,&lt;br&gt;                &#39;client_secret&#39;: &lt;font color=&quot;#0623f9&quot;&gt;client_secret&lt;/font&gt;&lt;br&gt;            }&lt;br&gt;            response = requests.post(self.config.azure_api_url,&lt;br&gt;                data = form_data,&lt;br&gt;                timeout = 30 # seconds&lt;br&gt;            )" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="180" width="280" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
