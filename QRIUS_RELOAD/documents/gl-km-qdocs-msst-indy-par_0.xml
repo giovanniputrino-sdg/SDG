@@ -1,0 +1,130 @@
+<crawl-urls>
+<crawl-url at="1734014936" crawled-locally="crawled-locally" size="1041" speed="65062.5" status="complete" url="redshift://edb-analytic-consumer-qa.cjlwfm8otbqm.us-east-2.redshift.amazonaws.com:5439/mq_dia_gmdf/?key-val=https%3A%2F%2Fsoag-z1.am.lilly.com%3A8443%2FIEP%2Fqdocs%2FgetDocument%3FdocumentID%3D2962656%26major+version%3D1%26minor+version%3D0%26rendition%3Dpdf">
+<crawl-data content-type="application/vxml-db" encoding="xml">
+<document>
+<content name="cnt"><![CDATA[0]]></content>
+<content name="msst_config"><![CDATA[Indy Parenteral]]></content>
+<content name="doc_version"><![CDATA[1.0]]></content>
+<content name="kdoc"><![CDATA[https://soag-z1.am.lilly.com:8443/IEP/qdocs/getDocument?documentID=2962656&major version=1&minor version=0&rendition=pdf]]></content>
+<content name="url"><![CDATA[https://soag-z1.am.lilly.com:8443/IEP/qdocs/getDocument?documentID=2962656&major version=1&minor version=0&rendition=pdf]]></content>
+<content name="visualization_url"><![CDATA[https://lilly-qualitydocs.veevavault.com/ui/#doc_info/2962656/1/0]]></content>
+<content name="base_url"><![CDATA[lilly-qualitydocs.veevavault.com]]></content>
+<content name="title"><![CDATA[Veeva QDocs - LD20NOV2009C022652 - Analytical Testing Strategy for Raw Materials, Excipients and Purchased API Used in the Manufacture of Drug Products at Indy Parenteral]]></content>
+<content name="file_name"><![CDATA[LD20NOV2009C022652]]></content>
+<content name="date_in"><![CDATA[2009-11-30]]></content>
+<content name="doc_type"><![CDATA[Assessment]]></content>
+<content name="business_area"><![CDATA[Manufacturing & Quality]]></content>
+<content name="dept"><![CDATA[Manufacturing]]></content>
+<content name="sites"><![CDATA[IPM]]></content>
+<content name="sub_process"><![CDATA[Production Practices]]></content>
+<content name="source"><![CDATA[Veeva QDocs]]></content>
+<content name="updt_tmstmp"><![CDATA[2024-09-06 17:21:53]]></content>
+<content name="information_classification"><![CDATA[Yellow-Public]]></content>
+<content name="security_group"><![CDATA[Public Group]]></content>
+<content name="governing_doc_control_group"><![CDATA[Mfg-IPM]]></content>
+</document>
+</crawl-data>
+</crawl-url>
+<crawl-url at="1734014936" crawled-locally="crawled-locally" size="1041" speed="65062.5" status="complete" url="redshift://edb-analytic-consumer-qa.cjlwfm8otbqm.us-east-2.redshift.amazonaws.com:5439/mq_dia_gmdf/?key-val=https%3A%2F%2Fsoag-z1.am.lilly.com%3A8443%2FIEP%2Fqdocs%2FgetDocument%3FdocumentID%3D2962654%26major+version%3D1%26minor+version%3D0%26rendition%3Dpdf">
+<crawl-data content-type="application/vxml-db" encoding="xml">
+<document>
+<content name="cnt"><![CDATA[0]]></content>
+<content name="msst_config"><![CDATA[Indy Parenteral]]></content>
+<content name="doc_version"><![CDATA[1.0]]></content>
+<content name="kdoc"><![CDATA[https://soag-z1.am.lilly.com:8443/IEP/qdocs/getDocument?documentID=2962654&major version=1&minor version=0&rendition=pdf]]></content>
+<content name="url"><![CDATA[https://soag-z1.am.lilly.com:8443/IEP/qdocs/getDocument?documentID=2962654&major version=1&minor version=0&rendition=pdf]]></content>
+<content name="visualization_url"><![CDATA[https://lilly-qualitydocs.veevavault.com/ui/#doc_info/2962654/1/0]]></content>
+<content name="base_url"><![CDATA[lilly-qualitydocs.veevavault.com]]></content>
+<content name="title"><![CDATA[Veeva QDocs - LD31AUG2007A131630 - Review of Containers Used for Dispensing Production Materials for Indianapolis Parenteral Operations]]></content>
+<content name="file_name"><![CDATA[LD31AUG2007A131630]]></content>
+<content name="date_in"><![CDATA[2007-08-31]]></content>
+<content name="doc_type"><![CDATA[Assessment]]></content>
+<content name="business_area"><![CDATA[Manufacturing & Quality]]></content>
+<content name="dept"><![CDATA[Manufacturing]]></content>
+<content name="sites"><![CDATA[IPM]]></content>
+<content name="sub_process"><![CDATA[Production Practices]]></content>
+<content name="source"><![CDATA[Veeva QDocs]]></content>
+<content name="updt_tmstmp"><![CDATA[2024-09-06 17:21:53]]></content>
+<content name="information_classification"><![CDATA[Yellow-Public]]></content>
+<content name="security_group"><![CDATA[Public Group]]></content>
+<content name="governing_doc_control_group"><![CDATA[Mfg-IPM]]></content>
+</document>
+</crawl-data>
+</crawl-url>
+<crawl-url at="1734014936" crawled-locally="crawled-locally" size="1041" speed="65062.5" status="complete" url="redshift://edb-analytic-consumer-qa.cjlwfm8otbqm.us-east-2.redshift.amazonaws.com:5439/mq_dia_gmdf/?key-val=https%3A%2F%2Fsoag-z1.am.lilly.com%3A8443%2FIEP%2Fqdocs%2FgetDocument%3FdocumentID%3D2962653%26major+version%3D2%26minor+version%3D0%26rendition%3Dpdf">
+<crawl-data content-type="application/vxml-db" encoding="xml">
+<document>
+<content name="cnt"><![CDATA[0]]></content>
+<content name="msst_config"><![CDATA[Indy Parenteral]]></content>
+<content name="doc_version"><![CDATA[2.0]]></content>
+<content name="kdoc"><![CDATA[https://soag-z1.am.lilly.com:8443/IEP/qdocs/getDocument?documentID=2962653&major version=2&minor version=0&rendition=pdf]]></content>
+<content name="url"><![CDATA[https://soag-z1.am.lilly.com:8443/IEP/qdocs/getDocument?documentID=2962653&major version=2&minor version=0&rendition=pdf]]></content>
+<content name="visualization_url"><![CDATA[https://lilly-qualitydocs.veevavault.com/ui/#doc_info/2962653/2/0]]></content>
+<content name="base_url"><![CDATA[lilly-qualitydocs.veevavault.com]]></content>
+<content name="title"><![CDATA[Veeva QDocs - LD08MAR2007RK60554 - Risk Assessment of Materials in Contact with Olanzapine Pamoate in the B107 Powder Filling Facility, Rev 1.1]]></content>
+<content name="file_name"><![CDATA[LD08MAR2007RK60554]]></content>
+<content name="date_in"><![CDATA[2007-03-29]]></content>
+<content name="doc_type"><![CDATA[Assessment]]></content>
+<content name="business_area"><![CDATA[Manufacturing & Quality]]></content>
+<content name="dept"><![CDATA[Manufacturing]]></content>
+<content name="sites"><![CDATA[IPM]]></content>
+<content name="sub_process"><![CDATA[Production Practices]]></content>
+<content name="source"><![CDATA[Veeva QDocs]]></content>
+<content name="updt_tmstmp"><![CDATA[2024-03-11 04:32:18]]></content>
+<content name="information_classification"><![CDATA[Orange]]></content>
+<content name="security_group"><![CDATA[Mfg-IPM-MST]]></content>
+</document>
+</crawl-data>
+</crawl-url>
+<crawl-url at="1734014936" crawled-locally="crawled-locally" size="1041" speed="65062.5" status="complete" url="redshift://edb-analytic-consumer-qa.cjlwfm8otbqm.us-east-2.redshift.amazonaws.com:5439/mq_dia_gmdf/?key-val=https%3A%2F%2Fsoag-z1.am.lilly.com%3A8443%2FIEP%2Fqdocs%2FgetDocument%3FdocumentID%3D2962652%26major+version%3D1%26minor+version%3D0%26rendition%3Dpdf">
+<crawl-data content-type="application/vxml-db" encoding="xml">
+<document>
+<content name="cnt"><![CDATA[0]]></content>
+<content name="msst_config"><![CDATA[Indy Parenteral]]></content>
+<content name="doc_version"><![CDATA[1.0]]></content>
+<content name="kdoc"><![CDATA[https://soag-z1.am.lilly.com:8443/IEP/qdocs/getDocument?documentID=2962652&major version=1&minor version=0&rendition=pdf]]></content>
+<content name="url"><![CDATA[https://soag-z1.am.lilly.com:8443/IEP/qdocs/getDocument?documentID=2962652&major version=1&minor version=0&rendition=pdf]]></content>
+<content name="visualization_url"><![CDATA[https://lilly-qualitydocs.veevavault.com/ui/#doc_info/2962652/1/0]]></content>
+<content name="base_url"><![CDATA[lilly-qualitydocs.veevavault.com]]></content>
+<content name="title"><![CDATA[Veeva QDocs - LD12SEP2003EPX8688 - Humulin N Technical Information]]></content>
+<content name="file_name"><![CDATA[LD12SEP2003EPX8688]]></content>
+<content name="date_in"><![CDATA[2004-03-02]]></content>
+<content name="doc_type"><![CDATA[Report]]></content>
+<content name="business_area"><![CDATA[Manufacturing & Quality]]></content>
+<content name="dept"><![CDATA[Manufacturing]]></content>
+<content name="sites"><![CDATA[IPM]]></content>
+<content name="sub_process"><![CDATA[Production Practices]]></content>
+<content name="source"><![CDATA[Veeva QDocs]]></content>
+<content name="updt_tmstmp"><![CDATA[2024-03-11 04:32:18]]></content>
+<content name="information_classification"><![CDATA[Orange]]></content>
+<content name="security_group"><![CDATA[Mfg-IPM-MST]]></content>
+</document>
+</crawl-data>
+</crawl-url>
+<crawl-url at="1734014936" crawled-locally="crawled-locally" size="1041" speed="65062.5" status="complete" url="redshift://edb-analytic-consumer-qa.cjlwfm8otbqm.us-east-2.redshift.amazonaws.com:5439/mq_dia_gmdf/?key-val=https%3A%2F%2Fsoag-z1.am.lilly.com%3A8443%2FIEP%2Fqdocs%2FgetDocument%3FdocumentID%3D2962655%26major+version%3D1%26minor+version%3D0%26rendition%3Dpdf">
+<crawl-data content-type="application/vxml-db" encoding="xml">
+<document>
+<content name="cnt"><![CDATA[0]]></content>
+<content name="msst_config"><![CDATA[Indy Parenteral]]></content>
+<content name="doc_version"><![CDATA[1.0]]></content>
+<content name="kdoc"><![CDATA[https://soag-z1.am.lilly.com:8443/IEP/qdocs/getDocument?documentID=2962655&major version=1&minor version=0&rendition=pdf]]></content>
+<content name="url"><![CDATA[https://soag-z1.am.lilly.com:8443/IEP/qdocs/getDocument?documentID=2962655&major version=1&minor version=0&rendition=pdf]]></content>
+<content name="visualization_url"><![CDATA[https://lilly-qualitydocs.veevavault.com/ui/#doc_info/2962655/1/0]]></content>
+<content name="base_url"><![CDATA[lilly-qualitydocs.veevavault.com]]></content>
+<content name="title"><![CDATA[Veeva QDocs - LD09JAN2009EP27755 - Investigation of e-Beam Terminal Sterilization for VL7637 Olanzapine Pamoate 405 MG Batch A527342 at BeamOne Lima, OH Facility 09 January 2009]]></content>
+<content name="file_name"><![CDATA[LD09JAN2009EP27755]]></content>
+<content name="date_in"><![CDATA[2009-01-14]]></content>
+<content name="doc_type"><![CDATA[Report]]></content>
+<content name="business_area"><![CDATA[Manufacturing & Quality]]></content>
+<content name="dept"><![CDATA[Manufacturing]]></content>
+<content name="sites"><![CDATA[IPM]]></content>
+<content name="sub_process"><![CDATA[Design & Validation of Sterilization & Decontamination Processes]]></content>
+<content name="source"><![CDATA[Veeva QDocs]]></content>
+<content name="updt_tmstmp"><![CDATA[2024-09-06 17:21:53]]></content>
+<content name="information_classification"><![CDATA[Yellow-Public]]></content>
+<content name="security_group"><![CDATA[Public Group]]></content>
+<content name="governing_doc_control_group"><![CDATA[Mfg-IPM]]></content>
+</document>
+</crawl-data>
+</crawl-url>
+</crawl-urls>
