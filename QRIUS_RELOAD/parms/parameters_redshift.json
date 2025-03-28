@@ -1,0 +1,9 @@
+{
+    "user":"gmdf_qrius_user",
+    "password":"Gmdf_2509rsqfjhvznp",
+    "host":"edb-analytic-consumer-prod.carpdwnmaayt.us-east-2.redshift.amazonaws.com",
+    "port":5439,
+    "database":"mq_dia_gmdf",
+    "jar_file" : "C:\\Users\\C276253\\Downloads\\redshift-jdbc42-2.1.0.9.jar"
+
+}
