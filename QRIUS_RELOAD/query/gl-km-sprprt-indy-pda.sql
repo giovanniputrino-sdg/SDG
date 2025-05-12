@@ -1,0 +1,1 @@
+SELECT * from gmdf_core.v_qrius_sprprt_indy_active

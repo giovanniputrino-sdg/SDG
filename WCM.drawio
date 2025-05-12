@@ -1,0 +1,145 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="24.7.17">
+  <diagram name="Page-1" id="rgw7u6xFR-ZV7shGWzve">
+    <mxGraphModel dx="1048" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-ZoH8AaSv6jImLgKxDBK-61" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="392" width="289" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-ZoH8AaSv6jImLgKxDBK-58" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="840" width="445" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="-ZoH8AaSv6jImLgKxDBK-57" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="631" width="560" height="178" as="geometry" />
+        </mxCell>
+        <mxCell id="-ZoH8AaSv6jImLgKxDBK-38" value="&lt;div style=&quot;color: rgb(204, 204, 204); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; text-align: left; white-space: pre; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: rgb(86, 156, 214);&quot;&gt;AssumeRolePolicyDocument&lt;/span&gt;:&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(204, 204, 204); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; text-align: left; white-space: pre; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: rgb(86, 156, 214);&quot;&gt;Version&lt;/span&gt;: 2012-10-17&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(204, 204, 204); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; text-align: left; white-space: pre; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: rgb(86, 156, 214);&quot;&gt;Statement&lt;/span&gt;:&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(204, 204, 204); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; text-align: left; white-space: pre; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; - &lt;span style=&quot;color: rgb(86, 156, 214);&quot;&gt;Effect&lt;/span&gt;: &lt;span style=&quot;color: rgb(206, 145, 120);&quot;&gt;Allow&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(204, 204, 204); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; text-align: left; white-space: pre; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: rgb(86, 156, 214);&quot;&gt;Principal&lt;/span&gt;:&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(204, 204, 204); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; text-align: left; white-space: pre; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: rgb(86, 156, 214);&quot;&gt;Federated&lt;/span&gt;:&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; text-align: left; white-space: pre; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; - &lt;/font&gt;&lt;span style=&quot;color: rgb(86, 156, 214);&quot;&gt;!Sub&lt;/span&gt;&lt;font color=&quot;#cccccc&quot;&gt; &lt;/font&gt;&lt;span style=&quot;color: rgb(206, 145, 120);&quot;&gt;arn:aws:iam::${AWS::AccountId}:oidc-provider/${&lt;/span&gt;&lt;font color=&quot;#05fa42&quot;&gt;Identity_provider&lt;/font&gt;&lt;span style=&quot;color: rgb(206, 145, 120);&quot;&gt;}&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(204, 204, 204); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; text-align: left; white-space: pre; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: rgb(86, 156, 214);&quot;&gt;Action&lt;/span&gt;: &lt;span style=&quot;color: rgb(206, 145, 120);&quot;&gt;sts:AssumeRoleWithWebIdentity&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(204, 204, 204); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; text-align: left; white-space: pre; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: rgb(86, 156, 214);&quot;&gt;Condition&lt;/span&gt;:&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(204, 204, 204); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; text-align: left; white-space: pre; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: rgb(86, 156, 214);&quot;&gt;StringEquals&lt;/span&gt;:&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; text-align: left; white-space: pre; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/font&gt;&lt;span style=&quot;color: rgb(206, 145, 120);&quot;&gt;&quot;login.microsoftonline.com/${tenant}/v2.0:aud&quot;&lt;/span&gt;&lt;font color=&quot;#cccccc&quot;&gt;: &lt;/font&gt;&lt;span style=&quot;color: rgb(206, 145, 120);&quot;&gt;&quot;${&lt;/span&gt;&lt;font color=&quot;#f70202&quot;&gt;Azure_Application_id&lt;/font&gt;&lt;span style=&quot;color: rgb(206, 145, 120);&quot;&gt;}&quot;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="615" width="610" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="-ZoH8AaSv6jImLgKxDBK-23" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="94" y="180" width="352.5" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="-ZoH8AaSv6jImLgKxDBK-1" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Enterprise_Applications.svg;" vertex="1" parent="1">
+          <mxGeometry x="60" y="46" width="34" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="-ZoH8AaSv6jImLgKxDBK-2" value="Create a Service Principal" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-ZoH8AaSv6jImLgKxDBK-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="94.33" as="sourcePoint" />
+            <mxPoint x="270" y="94.33" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ZoH8AaSv6jImLgKxDBK-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="129.33" as="sourcePoint" />
+            <mxPoint x="270" y="129.33" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ZoH8AaSv6jImLgKxDBK-7" value="&lt;b&gt;APPLICATION ID&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="288" y="80" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-ZoH8AaSv6jImLgKxDBK-8" value="&lt;b&gt;SECRET&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="279" y="115" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-ZoH8AaSv6jImLgKxDBK-19" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.source_code;" vertex="1" parent="1">
+          <mxGeometry x="52.25" y="180" width="27" height="36.95" as="geometry" />
+        </mxCell>
+        <mxCell id="-ZoH8AaSv6jImLgKxDBK-21" value="form_data = {&lt;br&gt;                &#39;grant_type&#39;: &#39;client_credentials&#39;,&lt;br&gt;                &#39;scope&#39;: &lt;font color=&quot;#cc6600&quot;&gt;scope&lt;/font&gt;+&quot;/.default&quot;,&lt;br&gt;                &#39;client_id&#39;: &lt;font color=&quot;#ff0505&quot;&gt;client_id&lt;/font&gt;,&lt;br&gt;                &#39;client_secret&#39;: &lt;font color=&quot;#0623f9&quot;&gt;client_secret&lt;/font&gt;&lt;br&gt;            }&lt;br&gt;            response = requests.post(self.config.azure_api_url,&lt;br&gt;                data = form_data,&lt;br&gt;                timeout = 30 # seconds&lt;br&gt;            )" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="117.5" y="180" width="280" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="-ZoH8AaSv6jImLgKxDBK-24" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendArrow;dy=15;dx=38;notch=0;arrowHead=55;rounded=1;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="500" y="180" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-ZoH8AaSv6jImLgKxDBK-25" value="Make an API call" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="85" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-ZoH8AaSv6jImLgKxDBK-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="109.33" as="sourcePoint" />
+            <mxPoint x="510" y="109.33" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ZoH8AaSv6jImLgKxDBK-28" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="261.83" y="350" as="sourcePoint" />
+            <mxPoint x="262.33" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ZoH8AaSv6jImLgKxDBK-30" value="&lt;b&gt;&lt;font color=&quot;#ff8000&quot;&gt;SERVICE PRINCIPAL ACCESS TOKEN&amp;nbsp;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="117.5" y="407" width="245" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-ZoH8AaSv6jImLgKxDBK-32" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://swimburger.net/media/ppnn3pcl/azure.png;" vertex="1" parent="1">
+          <mxGeometry x="700" y="65" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-ZoH8AaSv6jImLgKxDBK-33" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#DD344C;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.identity_access_management_iam_roles_anywhere;" vertex="1" parent="1">
+          <mxGeometry x="53" y="632" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="-ZoH8AaSv6jImLgKxDBK-34" value="&lt;font color=&quot;#106ce3&quot;&gt;Create a Role on AWS&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="53" y="692" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-ZoH8AaSv6jImLgKxDBK-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="721.52" as="sourcePoint" />
+            <mxPoint x="220" y="722" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ZoH8AaSv6jImLgKxDBK-41" value="&lt;font color=&quot;#007600&quot;&gt;Create an Identity Provider on AWS&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-ZoH8AaSv6jImLgKxDBK-42" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.iam;fillColor=#759C3E;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="47" y="470" width="30" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="-ZoH8AaSv6jImLgKxDBK-45" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="549" as="sourcePoint" />
+            <mxPoint x="220" y="549" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ZoH8AaSv6jImLgKxDBK-46" value="&lt;b&gt;Type OpenID Connect&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="535" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-ZoH8AaSv6jImLgKxDBK-47" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="550" as="sourcePoint" />
+            <mxPoint x="430" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ZoH8AaSv6jImLgKxDBK-49" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Add audience to this Identity Provider&lt;/font&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;This new audience must have the same name as the &lt;font color=&quot;#fc0303&quot;&gt;Azure Application Id&lt;/font&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="511" width="360" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-ZoH8AaSv6jImLgKxDBK-50" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.pngplay.com/wp-content/uploads/3/Amazon-Web-Services-AWS-Logo-Transparent-PNG.png;" vertex="1" parent="1">
+          <mxGeometry x="670" y="407" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-ZoH8AaSv6jImLgKxDBK-51" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Get AWS Credentials using &lt;font color=&quot;#fd087e&quot;&gt;sts.assume_role_with_web_identity&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="30" y="920" width="227" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-ZoH8AaSv6jImLgKxDBK-56" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; white-space: pre; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;color: rgb(156, 220, 254);&quot;&gt;role_arn&lt;/span&gt;&lt;font color=&quot;#cccccc&quot;&gt; &lt;/font&gt;&lt;span style=&quot;color: rgb(212, 212, 212);&quot;&gt;=&lt;/span&gt;&lt;font color=&quot;#cccccc&quot;&gt; &lt;/font&gt;&lt;span style=&quot;color: rgb(86, 156, 214);&quot;&gt;f&lt;/span&gt;&lt;span style=&quot;color: rgb(206, 145, 120);&quot;&gt;&quot;arn:aws:iam::&lt;/span&gt;&lt;span style=&quot;color: rgb(86, 156, 214);&quot;&gt;{&lt;/span&gt;&lt;span style=&quot;color: rgb(156, 220, 254);&quot;&gt;aws_account_id&lt;/span&gt;&lt;span style=&quot;color: rgb(86, 156, 214);&quot;&gt;}&lt;/span&gt;&lt;span style=&quot;color: rgb(206, 145, 120);&quot;&gt;:role/&lt;/span&gt;&lt;span style=&quot;color: rgb(86, 156, 214);&quot;&gt;{&lt;/span&gt;&lt;font color=&quot;#106ce3&quot;&gt;aws_role&lt;/font&gt;&lt;span style=&quot;color: rgb(86, 156, 214);&quot;&gt;}&lt;/span&gt;&lt;span style=&quot;color: rgb(206, 145, 120);&quot;&gt;&quot;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(204, 204, 204); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; white-space: pre; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;color: rgb(156, 220, 254);&quot;&gt;sts&lt;/span&gt; &lt;span style=&quot;color: rgb(212, 212, 212);&quot;&gt;=&lt;/span&gt; &lt;span style=&quot;color: rgb(156, 220, 254);&quot;&gt;boto3&lt;/span&gt;.client(&lt;span style=&quot;color: rgb(206, 145, 120);&quot;&gt;&#39;sts&#39;&lt;/span&gt;)&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; white-space: pre; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;color: rgb(156, 220, 254);&quot;&gt;sts_response&lt;/span&gt;&lt;font color=&quot;#cccccc&quot;&gt; &lt;/font&gt;&lt;span style=&quot;color: rgb(212, 212, 212);&quot;&gt;=&lt;/span&gt;&lt;font color=&quot;#cccccc&quot;&gt; &lt;/font&gt;&lt;span style=&quot;color: rgb(156, 220, 254);&quot;&gt;sts&lt;/span&gt;&lt;font color=&quot;#cccccc&quot;&gt;.&lt;/font&gt;&lt;font color=&quot;#5e5e5e&quot;&gt;assume_role_with_web_identity&lt;/font&gt;&lt;font color=&quot;#cccccc&quot;&gt;(&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(204, 204, 204); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; white-space: pre; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: rgb(156, 220, 254);&quot;&gt;RoleArn&lt;/span&gt;&lt;span style=&quot;color: rgb(212, 212, 212);&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: rgb(156, 220, 254);&quot;&gt;role_arn&lt;/span&gt;,&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(204, 204, 204); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; white-space: pre; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: rgb(156, 220, 254);&quot;&gt;RoleSessionName&lt;/span&gt;&lt;span style=&quot;color: rgb(212, 212, 212);&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: rgb(206, 145, 120);&quot;&gt;&quot;AzureRefine&quot;&lt;/span&gt;,&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; white-space: pre; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;/font&gt;&lt;span style=&quot;color: rgb(156, 220, 254);&quot;&gt;WebIdentityToken&lt;/span&gt;&lt;span style=&quot;color: rgb(212, 212, 212);&quot;&gt;=&lt;/span&gt;&lt;font color=&quot;#ff8000&quot;&gt;azure_token&lt;/font&gt;&lt;font color=&quot;#cccccc&quot;&gt;,&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(204, 204, 204); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; white-space: pre; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: rgb(156, 220, 254);&quot;&gt;DurationSeconds&lt;/span&gt;&lt;span style=&quot;color: rgb(212, 212, 212);&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color: rgb(181, 206, 168);&quot;&gt;36000&lt;/span&gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(204, 204, 204); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; white-space: pre; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: rgb(106, 153, 85);&quot;&gt;# 10 hours (max allowed by Info. Sec.)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; white-space: pre; font-size: 11px;&quot;&gt;&lt;font color=&quot;#5c5c5c&quot; style=&quot;font-size: 11px;&quot;&gt;)&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(204, 204, 204); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; white-space: pre; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;color: rgb(156, 220, 254);&quot;&gt;credentials_field&lt;/span&gt; &lt;span style=&quot;color: rgb(212, 212, 212);&quot;&gt;=&lt;/span&gt; &lt;span style=&quot;color: rgb(156, 220, 254);&quot;&gt;sts_response&lt;/span&gt;[&lt;span style=&quot;color: rgb(206, 145, 120);&quot;&gt;&#39;Credentials&#39;&lt;/span&gt;]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(204, 204, 204); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; white-space: pre; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;color: rgb(156, 220, 254);&quot;&gt;session_token&lt;/span&gt; &lt;span style=&quot;color: rgb(212, 212, 212);&quot;&gt;=&lt;/span&gt; &lt;span style=&quot;color: rgb(156, 220, 254);&quot;&gt;credentials_field&lt;/span&gt;[&lt;span style=&quot;color: rgb(206, 145, 120);&quot;&gt;&#39;SessionToken&#39;&lt;/span&gt;]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(204, 204, 204); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; white-space: pre; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;color: rgb(156, 220, 254);&quot;&gt;aws_access_key&lt;/span&gt; &lt;span style=&quot;color: rgb(212, 212, 212);&quot;&gt;=&lt;/span&gt; &lt;span style=&quot;color: rgb(156, 220, 254);&quot;&gt;credentials_field&lt;/span&gt;[&lt;span style=&quot;color: rgb(206, 145, 120);&quot;&gt;&#39;AccessKeyId&#39;&lt;/span&gt;]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(204, 204, 204); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; white-space: pre; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;color: rgb(156, 220, 254);&quot;&gt;aws_secret_access_key&lt;/span&gt; &lt;span style=&quot;color: rgb(212, 212, 212);&quot;&gt;=&lt;/span&gt; &lt;span style=&quot;color: rgb(156, 220, 254);&quot;&gt;credentials_field&lt;/span&gt;[&lt;span style=&quot;color: rgb(206, 145, 120);&quot;&gt;&#39;SecretAccessKey&#39;&lt;/span&gt;]&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;color: rgb(204, 204, 204); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; white-space: pre;&quot;&gt;&lt;/font&gt;&lt;div style=&quot;color: rgb(204, 204, 204); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; white-space: pre; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;color: rgb(197, 134, 192);&quot;&gt;return&lt;/span&gt; {&lt;span style=&quot;color: rgb(206, 145, 120);&quot;&gt;&quot;AWS_ACCESS_KEY_ID&quot;&lt;/span&gt;: &lt;span style=&quot;color: rgb(156, 220, 254);&quot;&gt;aws_access_key&lt;/span&gt;,&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(204, 204, 204); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; white-space: pre; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: rgb(206, 145, 120);&quot;&gt;&quot;AWS_SECRET_ACCESS_KEY&quot;&lt;/span&gt;: &lt;span style=&quot;color: rgb(156, 220, 254);&quot;&gt;aws_secret_access_key&lt;/span&gt;,&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(204, 204, 204); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; white-space: pre; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: rgb(206, 145, 120);&quot;&gt;&quot;AWS_SESSION_TOKEN&quot;&lt;/span&gt;: &lt;span style=&quot;color: rgb(156, 220, 254);&quot;&gt;session_token&lt;/span&gt;}&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="830" width="440" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="-ZoH8AaSv6jImLgKxDBK-59" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.011;entryY=0.407;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="958" as="sourcePoint" />
+            <mxPoint x="337.5549999999998" y="957.6800000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ZoH8AaSv6jImLgKxDBK-60" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.security_icons.iam;" vertex="1" parent="1">
+          <mxGeometry x="47" y="860" width="37.5" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="-ZoH8AaSv6jImLgKxDBK-64" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-1/24/asterisk-128.png" vertex="1" parent="1">
+          <mxGeometry x="351" y="380" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="-ZoH8AaSv6jImLgKxDBK-65" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-1/24/asterisk-128.png" vertex="1" parent="1">
+          <mxGeometry x="581" y="900" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="-ZoH8AaSv6jImLgKxDBK-67" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#F90606;" edge="1" parent="1" source="-ZoH8AaSv6jImLgKxDBK-65">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="328" y="462" as="sourcePoint" />
+            <mxPoint x="378" y="412" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

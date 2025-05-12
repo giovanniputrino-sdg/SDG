@@ -1,0 +1,204 @@
+"LOCATION";"AREA";"DEPT";"COMMENTS";"QRIUS_MSST_FLG"
+GMQLD Quality Lab function;Manufacturing & Quality;L&D;Central10, Central10_Training;0
+Fegersheim site;Manufacturing & Quality;Technical Services / Manufacturing Science;FEG_TSMS;1
+GMQLD Manufacturing function;Manufacturing & Quality;L&D;Central10, Central10_Training;0
+Kobe, Japan affiliate;IDS;Global Info Services;CENTRAL Japan IT;0
+IDAP site;Manufacturing & Quality;Quality;DRY_QUALITY;0
+Suzhou site;Manufacturing & Quality;Engineering;SUZ_Specification;1
+;Global Quality;CIQ;CENTRAL29;0
+GMQLD Function;Manufacturing & Quality;L&D;Central10, Central10_Training;0
+Suzhou site;Manufacturing & Quality;Technical Services / Manufacturing Science;SUZ_Procedure;0
+Fegersheim site;Human Resources;L&D;FEG_Training;0
+IDAP site;Manufacturing & Quality;Laboratory;DRY_Procedures;0
+GMQLD Operational Excellence function;Manufacturing & Quality;L&D;Central10, Central10_Training;0
+Indy Dry site;Manufacturing & Quality;Technical Services / Manufacturing Science;DRY_Procedures;0
+IDAP site;IDS;MQ IDS;DRY_MI_and_CS;0
+Global TSMS function;Manufacturing & Quality;Technical Services / Manufacturing Science;CENTRAL19;1
+Fegersheim site;Manufacturing & Quality;Technical Services / Manufacturing Science;FEG_Quality;0
+IDM Site;IDS;Technical Services / Manufacturing Science;Central08;0
+Suzhou site;Manufacturing & Quality;Laboratory;SUZ_Method_Compendia;0
+IDAP site;Manufacturing & Quality;Operations;DRY_Training;0
+IDAP site;Manufacturing & Quality;Quality;DRY_Procedures;0
+IPM site;Manufacturing & Quality;Technical Services / Manufacturing Science;PAR_MST;1
+IDAP site;IDS;MQ IDS;DRY_Procedures;0
+Global Regulatory Function;Manufacturing & Quality;;Central16;0
+Indy Dry site;Manufacturing & Quality;L&D;DRY_Procedures;0
+IDM Site;IDS;Supply Chain;Central08;0
+IDAP site;Manufacturing & Quality;Manufacturing;DRY_Procedures;0
+Fegersheim site;Manufacturing & Quality;Engineering;FEG_Validation;1
+IDAP site;Manufacturing & Quality;Engineering;DRY_Engineering_FUME;0
+IDM Site;IDS;MQ IDS;Central08;0
+GMQLD HSE function;Manufacturing & Quality;L&D;Central10, Central10_Training;0
+Suzhou site;Manufacturing & Quality;Operations;SUZ_Training;0
+IDAP site;Manufacturing & Quality;Engineering;DRY_Technical_Documents;1
+IDAP site;Manufacturing & Quality;L&D;DRY_Procedures;0
+NALO site;Manufacturing & Quality;Quality;Central11;0
+IDM Site;Manufacturing & Quality;Quality;Central08;0
+Indy Dry site;Manufacturing & Quality;Laboratory;DRY_QCL;0
+GMQLD TSMS function;Manufacturing & Quality;L&D;Central10, Central10_Training;0
+Argentina affiliate;Manufacturing & Quality;Laboratory;CENTRAL22_Method_Compendia;0
+Suzhou site;Manufacturing & Quality;Technical Services / Manufacturing Science;SUZ_Filling;0
+NALO site;Manufacturing & Quality;Quality;CENTRAL11_Training;0
+Suzhou site;Manufacturing & Quality;Technical Services / Manufacturing Science;SUZ_Training;0
+Indy Dry site;IDS;MQ IDS;DRY_Procedures;0
+;LRL-Discovery Research;Health, Safety, & Environmental;CENTRAL15;0
+IDAP site;Manufacturing & Quality;Operations;DRY_MPP;0
+Suzhou site;Manufacturing & Quality;Quality;SUZ_Specification;1
+Indy Dry site;Manufacturing & Quality;Laboratory;DRY_Training;0
+Fegersheim site;Manufacturing & Quality;Laboratory;FEG_Method_NonCompendia;0
+Korea, Republic Of;Manufacturing & Quality;Laboratory;CENTRAL23_Method_Compendia;0
+Global;Manufacturing & Quality;Technical Services / Manufacturing Science;CENTRAL19;1
+Indy Dry site;Manufacturing & Quality;Automation;DRY_Engineering_FUME;0
+Dry network;Manufacturing & Quality;Technical Services / Manufacturing Science;CENTRAL19;1
+Fegersheim site;Manufacturing & Quality;Laboratory;FEG_Method_Compendia;0
+Canada;Global Quality;GQL;Central14_Method_NonCompendia;1
+Brazil site;IDS;;BR_MFG_Treinamento_e_Precedimentos, BR_MFG_MST;0
+Suzhou site;Manufacturing & Quality;Quality;SUZ_Method_Compendia;0
+Fegersheim site;Manufacturing & Quality;Quality;FEG_Procedures;0
+Suzhou site;Manufacturing & Quality;Supply Chain;SUZ_Training;0
+GMQLD HR function;Manufacturing & Quality;L&D;Central10, Central10_Training;0
+Indy Dry site;Manufacturing & Quality;Laboratory;DRY_Specification;0
+Spain affiliate;;;Alcobendas;0
+EMEAA site;;;EMEAA;0
+Suzhou site;Manufacturing & Quality;Health, Safety, & Environmental;SUZ_Training;0
+GMQLD Supply Chain function;Manufacturing & Quality;L&D;Central10, Central10_Training;0
+IDM Site;IDS;Laboratory;Central08;0
+Suzhou site;Manufacturing & Quality;Engineering;SUZ_Filling;0
+Indy Dry site;Manufacturing & Quality;Technical Services / Manufacturing Science;DRY_Technical_Documents;1
+Indy Dry site;Manufacturing & Quality;Quality;DRY_Procedures;0
+Indy Dry site;Manufacturing & Quality;Manufacturing;DRY_Procedures;0
+Suzhou site;Manufacturing & Quality;Engineering;SUZ_Validation;0
+Suzhou site;Manufacturing & Quality;Quality;SUZ_Procedure;0
+Fegersheim site;Manufacturing & Quality;Laboratory;FEG_Procedures;0
+IDAP site;Manufacturing & Quality;Operations;DRY_Packaging;0
+API External Manufacturing function;Global Quality;GQL;Central14_Method_NonCompendia;1
+Indy Dry site;Manufacturing & Quality;Operations;DRY_MPP;0
+API network;Manufacturing & Quality;Technical Services / Manufacturing Science;CENTRAL19;1
+Indy Dry site;Manufacturing & Quality;Laboratory;DRY_QUALITY;0
+Fegersheim site;IDS;MQ IDS;FEG_CSV;0
+Suzhou site;Human Resources;L&D;SUZ_Training;0
+Suzhou site;Finance and Procurement;L&D;SUZ_Training;0
+Suzhou site;IDS;MQ IDS;SUZ_Validation;0
+IDAP site;Manufacturing & Quality;Automation;DRY_Engineering_FUME;0
+;LRL-Discovery Research;Discovery;CENTRAL25;0
+EMEAA site;Global Quality;GQL;Central14_Method_NonCompendia;1
+Suzhou site;Manufacturing & Quality;Technical Services / Manufacturing Science;SUZ_ELM_TSMS;0
+Suzhou site;Manufacturing & Quality;Quality;SUZ_Training;0
+GMQLD Quality function;Manufacturing & Quality;L&D;Central10, Central10_Training;0
+IDAP site;Manufacturing & Quality;Engineering;DRY_Procedures;0
+Suzhou site;Human Resources;L&D;SUZ_Procedure;0
+Brazil site;Manufacturing & Quality;Laboratory;BR_Method_Compendia, BR_Method_NonCompendia, BR_Specification;0
+External Manufacturing and Supply - Americas site;Manufacturing & Quality;Quality;Central13_Method_Compendia, Central13_Method_NonCompendia, Central13_Specification;0
+South Africa;Global Quality;GQL;Central14_Method_NonCompendia;1
+Fegersheim site;Manufacturing & Quality;L&D;FEG_Procedures;0
+IDAP site;Manufacturing & Quality;Operations;DRY_Kits;0
+GQAAC function;;;GQAAC;0
+Suzhou site;Manufacturing & Quality;Supply Chain;SUZ_Procedure;0
+Fegersheim site;Manufacturing & Quality;Technical Services / Manufacturing Science;FEG_Validation;1
+;Global Quality;;CENTRAL09;1
+Korea, Republic Of;Manufacturing & Quality;Laboratory;CENTRAL23_Method_NonCompendia;0
+Alcobendas site;;;Alcobendas;0
+IDM Site;Manufacturing & Quality;L&D;Central08_Training;0
+;Human Resources;Global Security;CENTRAL06;1
+IDM Site;Manufacturing & Quality;Technical Services / Manufacturing Science;CENTRAL08_Method_Compendia, CENTRAL08_Method_NonCompendia, Central08_Specification;0
+IDAP site;Manufacturing & Quality;Operations;DRY_Technical_Documents;1
+IDM Site;IDS;L&D;Central08;0
+Suzhou site;Manufacturing & Quality;Laboratory;SUZ_Method_NonCompendia;1
+IDAP site;Manufacturing & Quality;Technical Services / Manufacturing Science;DRY_Technical_Documents;1
+Indy Dry site;Manufacturing & Quality;Engineering;DRY_Technical_Documents;1
+Kobe, Japan affiliate;IDS;Med Dev IDS;CENTRAL Japan IT;0
+IDAP site;Manufacturing & Quality;Laboratory;DRY_Specification;0
+Indy Dry site;Manufacturing & Quality;Laboratory;DRY_Method_Compendia, DRY_Method_NonCompendia;0
+Brazil site;Manufacturing & Quality;;BR_MFG_Manufatura, BR_MFG_Treinamento_e_Precedimentos, BR_MFG_BIB, BR_MFG_MST, BR_Lilly_Tickets;0
+Fegersheim site;IDS;MQ IDS;FEG_Quality;0
+GQL function;Global Quality;GQL;CENTRAL19;1
+Indy Dry site;IDS;MQ IDS;DRY_Training;0
+Fegersheim site;Manufacturing & Quality;Laboratory;FEG_Quality;0
+Fegersheim site;Manufacturing & Quality;Supply Chain;FEG_Quality;0
+Fegersheim site;Manufacturing & Quality;Laboratory;FEG_Specification;0
+Fegersheim site;Manufacturing & Quality;L&D;FEG_Quality;0
+IDAP site;Manufacturing & Quality;Operations;DRY_Procedures;0
+Fegersheim site;Manufacturing & Quality;L&D;FEG_Training;0
+Fegersheim site;Manufacturing & Quality;Quality;FEG_Quality;0
+Suzhou site;Manufacturing & Quality;Engineering;SUZ_Training;0
+Spain;;;Alcobendas;0
+Fegersheim site;Manufacturing & Quality;Supply Chain;FEG_TSMS;1
+Argentina affiliate;Manufacturing & Quality;Laboratory;CENTRAL22_Specification;0
+Korea, Republic Of;Manufacturing & Quality;Quality;CENTRAL23_Specification;0
+Indy Dry site;Manufacturing & Quality;Operations;DRY_Technical_Documents;1
+Global;Global Quality;GQL;Non-Compendia Methods Documents;1
+Fegersheim site;Manufacturing & Quality;Engineering;FEG_Quality;0
+IDAP site;Manufacturing & Quality;Laboratory;DRY_QUALITY;0
+Suzhou site;Manufacturing & Quality;Technical Services / Manufacturing Science;SUZ_BatchRecord;1
+Brazil site;Global Quality;GQL;Central14_Method_NonCompendia;1
+Suzhou site;Manufacturing & Quality;Supply Chain;SUZ_Specification;1
+Branchburg site;;Manufacturing & Quality;NJNY_Documents, NJNY_Functional_Groups, NJNY_Manufacturing, NJNY_Validation;0
+Global;Manufacturing & Quality;Engineering;CENTRAL19;1
+IPM site;Manufacturing & Quality;Engineering;PAR_MST;1
+Indy Dry site;Manufacturing & Quality;Engineering;DRY_Procedures;0
+Global;Global Quality;GQL;Central14_Method_NonCompendia;1
+IDM Site;IDS;ISQ;Central08;0
+Argentina affiliate;Manufacturing & Quality;Laboratory;CENTRAL22_Method_NonCompendia;0
+Suzhou site;Manufacturing & Quality;Operations;SUZ_Procedure;0
+Parenteral network;Manufacturing & Quality;Technical Services / Manufacturing Science;CENTRAL19;1
+;IDS;;CENTRAL02, IT_Library, GBIP01, GBIP02;0
+Indy Dry site;Manufacturing & Quality;Health, Safety, & Environmental;DRY_Procedures;0
+Suzhou site;Manufacturing & Quality;Laboratory;SUZ_Training;0
+Fegersheim site;Manufacturing & Quality;Supply Chain;FEG_Procedures;0
+IDM Site;IDS;Operations;Central08;0
+Fegersheim site;Manufacturing & Quality;Health, Safety, & Environmental;FEG_Procedures;0
+Fegersheim site;Manufacturing & Quality;Operations;FEG_Procedures;0
+Suzhou site;IDS;MQ IDS;SUZ_Training;0
+Suzhou site;Manufacturing & Quality;Quality;SUZ_Filling;0
+Indy Dry site;Manufacturing & Quality;Operations;DRY_Kits;0
+IDAP site;Manufacturing & Quality;Supply Chain;DRY_Procedures;0
+;Manufacturing & Quality;Health, Safety, & Environmental;CENTRAL15;0
+GMQLD Engineering function;Manufacturing & Quality;L&D;Central10, Central10_Training;0
+IDAP site;Manufacturing & Quality;Laboratory;DRY_QCL;0
+;Manufacturing & Quality;Engineering;CENTRAL04;0
+Suzhou site;IDS;MQ IDS;SUZ_Procedure;0
+Global Regulatory Function;Manufacturing & Quality;;Central26;0
+Global;LRL-Discovery Research;ATP LV;Central01;0
+Suzhou site;Manufacturing & Quality;Health, Safety, & Environmental;SUZ_Procedure;0
+IDM Site;IDS;Health, Safety, & Environmental;Central08;0
+Global;Global Quality;GQL;Compendia_Documents;1
+API network;Manufacturing & Quality;Engineering;CENTRAL19;1
+Suzhou site;Manufacturing & Quality;Laboratory;SUZ_Procedure;0
+Suzhou site;Manufacturing & Quality;Technical Services / Manufacturing Science;SUZ_Specification;1
+Fegersheim site;IDS;MQ IDS;FEG_Procedures;0
+Indy Dry site;Manufacturing & Quality;Supply Chain;DRY_Procedures;0
+Indy Dry site;Manufacturing & Quality;Quality;DRY_QUALITY;0
+Fegersheim site;Manufacturing & Quality;Technical Services / Manufacturing Science;FEG_Procedures;0
+Indy Dry site;IDS;MQ IDS;DRY_MI_and_CS;0
+IDAP site;Manufacturing & Quality;Health, Safety, & Environmental;DRY_Procedures;0
+;Manufacturing & Quality;Engineering;CENTRAL12;1
+IDAP site;Manufacturing & Quality;Laboratory;DRY_Method_Compendia, DRY_Method_NonCompendia;0
+Suzhou site;Manufacturing & Quality;Engineering;SUZ_Procedure;0
+Indy Dry site;Manufacturing & Quality;Engineering;DRY_Engineering_FUME;0
+;LRL-PR&D;;PRD_Method_Compendia, PRD_Method_NonCompendia, PRD_Lab_Stability, PRD_Training, PRD_Quality_System;0
+Fegersheim site;Manufacturing & Quality;Manufacturing;FEG_Procedures;0
+Suzhou site;Manufacturing & Quality;Laboratory;SUZ_Filling;0
+GQL function;Global Quality;GQL;Central14_Method_NonCompendia;1
+Indy Dry site;Manufacturing & Quality;Operations;DRY_Procedures;0
+API External Manufacturing function;Manufacturing & Quality;Quality;CentralEXT_AB;1
+Indy Dry site;Manufacturing & Quality;Operations;DRY_Packaging;0
+Indy Dry site;Manufacturing & Quality;Engineering;DRY_Training;0
+Fegersheim site;Human Resources;L&D;FEG_Quality;0
+Suzhou site;IDS;MQ IDS;SUZ_Filling;0
+Fegersheim site;Manufacturing & Quality;Engineering;FEG_Procedures;0
+API External Manufacturing function;Manufacturing & Quality;Quality;Central13_Method_Compendia, Central13_Method_NonCompendia, Central13_Specification;0
+External Manufacturing and Supply - Americas site;Manufacturing and Quality;Quality;Central13;1
+Fegersheim site;Manufacturing & Quality;Human Resources;FEG_Procedures;0
+;Manufacturing & Quality;Engineering;CENTRAL06;1
+Global;Global Quality;GQL;CENTRAL19;1
+IDAP site;Manufacturing & Quality;Technical Services / Manufacturing Science;DRY_Procedures;0
+GMQLD MQLC function;Manufacturing & Quality;L&D;Central10, Central10_Training;0
+Suzhou site;Manufacturing & Quality;Manufacturing;SUZ_Procedure;0
+Global;LRL-Discovery Research;Global Quality Research and Development (GQRD);Central01;0
+Suzhou site;Manufacturing & Quality;Manufacturing;SUZ_Training;0
+Kobe, Japan affiliate;IDS;Bus Unit IDS;CENTRAL Japan IT;0
+Global;Global Quality;GQL;Specifications;0
+Indy Dry site;Manufacturing & Quality;Laboratory;DRY_Procedures;0
+;Manufacturing & Quality;Automation;CENTRAL04;0
+Suzhou site;Ethics and Compliance;Finance;SUZ_Procedure;0
+Fegersheim site;Manufacturing & Quality;Technical Services / Manufacturing Science;FEG_Training;0

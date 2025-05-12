@@ -1,0 +1,8 @@
+{
+    "user":"GMDM_CORE_OWNER",
+    "password":"Gmdm_core@2016",
+    "host":"MQPDAP01.am.lilly.com",
+    "port":5480,
+    "database":"GMDM"
+
+}
