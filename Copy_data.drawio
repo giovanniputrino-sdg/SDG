@@ -88,6 +88,35 @@
         <mxCell id="1ymNtVM7lkWZost18uk0-28" value="Create a change task (Ctask) off the System Change to EDB-GLB to create the cross-account bucket/folder access and KMS key access.&lt;div&gt;Please refer to :&amp;nbsp;&lt;a href=&quot;https://lilly.service-now.com/now/nav/ui/classic/params/target/change_task.do%3Fsys_id%3D76760c7897e796983584f331f053afe2%26sysparm_record_target%3Dchange_task%26sysparm_record_row%3D1%26sysparm_record_rows%3D2%26sysparm_record_list%3Dchange_request%253D6f9ca150475f1ed0a93e0bdbd36d4333%255EORDERBYnumber&quot;&gt;CTASK0329879&lt;/a&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="217.5" y="650" width="295" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="1ymNtVM7lkWZost18uk0-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1ymNtVM7lkWZost18uk0-30" target="1ymNtVM7lkWZost18uk0-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1ymNtVM7lkWZost18uk0-39" value="&lt;font style=&quot;color: rgb(0, 155, 0);&quot;&gt;YES&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1ymNtVM7lkWZost18uk0-34">
+          <mxGeometry x="-0.55" y="5" relative="1" as="geometry">
+            <mxPoint x="-6" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1ymNtVM7lkWZost18uk0-30" value="CTASK Executed ?&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="292.5" y="750" width="145" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1ymNtVM7lkWZost18uk0-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.498;entryY=-0.083;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1ymNtVM7lkWZost18uk0-28" target="1ymNtVM7lkWZost18uk0-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1ymNtVM7lkWZost18uk0-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1ymNtVM7lkWZost18uk0-33" target="1ymNtVM7lkWZost18uk0-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1ymNtVM7lkWZost18uk0-33" value="&lt;div&gt;Notify to ingestion team to begin copying data from the Production (PRD) environment to the&lt;/div&gt;&lt;div&gt;Quality Assurance (QA) environment as indicated in Change Request.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="165" y="870" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1ymNtVM7lkWZost18uk0-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1ymNtVM7lkWZost18uk0-35" target="1ymNtVM7lkWZost18uk0-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1ymNtVM7lkWZost18uk0-35" value="Create a change task (Ctask) off the System Change to EDB-GLB to&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;to remove the cross-account bucket policy providing the&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;QA role access to the production bucket/folder and the kms keys.&lt;/span&gt;&lt;div&gt;Please refer to :&amp;nbsp;&lt;a href=&quot;https://lilly.service-now.com/now/nav/ui/classic/params/target/change_task.do%3Fsys_id%3D03e7cc7c97e796983584f331f053af97%26sysparm_record_target%3Dchange_task%26sysparm_record_row%3D2%26sysparm_record_rows%3D2%26sysparm_record_list%3Dchange_request%253D6f9ca150475f1ed0a93e0bdbd36d4333%255EORDERBYnumber&quot;&gt;CTASK0329880&lt;/a&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="970" width="410" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1ymNtVM7lkWZost18uk0-37" value="Ensure any production data copied back to QA for this Change has been deleted." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="269" y="1070" width="192" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
