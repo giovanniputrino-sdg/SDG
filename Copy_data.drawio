@@ -73,6 +73,15 @@
             <mxPoint x="450" y="484" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="1ymNtVM7lkWZost18uk0-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-11" target="1ymNtVM7lkWZost18uk0-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1ymNtVM7lkWZost18uk0-21" value="&lt;b&gt;&lt;font style=&quot;color: rgb(0, 155, 0);&quot;&gt;Change Approved&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="307.5" y="546" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1ymNtVM7lkWZost18uk0-22" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/flat-actions-icons-9/792/Tick_Mark_Circle-128.png" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350.5" y="576" width="29" height="29" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
