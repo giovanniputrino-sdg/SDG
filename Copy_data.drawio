@@ -10,7 +10,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="&lt;div&gt;Create a Snow Change Request using the &lt;b&gt;EDB-NORM-SYS-REL&lt;/b&gt; template requesting temporary&lt;/div&gt;&lt;div&gt;access from QA bucket/folder to Prod bucket/folder.&amp;nbsp;&lt;/div&gt;&lt;div&gt;Include the specific QA role receiving this access.&amp;nbsp;&lt;/div&gt;&lt;div&gt;Please refers to :&amp;nbsp;&lt;a href=&quot;https://lilly.service-now.com/now/nav/ui/classic/params/target/change_request.do%3Fsys_id%3D6f9ca150475f1ed0a93e0bdbd36d4333%26sysparm_view%3D%26sysparm_domain%3Dnull%26sysparm_domain_scope%3Dnull&quot;&gt;CHG2521121&lt;/a&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="213" y="30" width="410" height="90" as="geometry" />
+          <mxGeometry x="211" y="30" width="410" height="90" as="geometry" />
         </mxCell>
         <mxCell id="1ymNtVM7lkWZost18uk0-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
